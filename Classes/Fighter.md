@@ -39,22 +39,22 @@ You start with the following equipment, in addition to the equipment granted by 
 |-------|-------------------|---------------------------------------------------|
 | 1st   | +2                | Fighting Style, Second Wind                       |
 | 2nd   | +2                | Action Surge (one use)                            |
-| 3rd   | +2                | Martial Archetype                                 |
+| 3rd   | +2                | Improved Critical                                 |
 | 4th   | +2                | Ability Score Improvement                         |
 | 5th   | +3                | Extra Attack                                      |
 | 6th   | +3                | Ability Score Improvement                         |
-| 7th   | +3                | Martial Archetype Feature                         |
+| 7th   | +3                | Remarkable Athlete                                |
 | 8th   | +3                | Ability Score Improvement                         |
 | 9th   | +4                | Indomitable (one use)                             |
-| 10th  | +4                | Martial Archetype Feature                         |
+| 10th  | +4                | Additional Fighting Style                         |
 | 11th  | +4                | Extra Attack (2)                                  |
 | 12th  | +4                | Ability Score Improvement                         |
 | 13th  | +5                | Indomitable (two uses)                            |
 | 14th  | +5                | Ability Score Improvement                         |
-| 15th  | +5                | Martial Archetype Feature                         |
+| 15th  | +5                | Superior Critical                                 |
 | 16th  | +5                | Ability Score Improvement                         |
 | 17th  | +6                | Action Surge (two uses), Indomitable (three uses) |
-| 18th  | +6                | Martial Archetype Feature                         |
+| 18th  | +6                | Survivor                                          |
 | 19th  | +6                | Ability Score Improvement                         |
 | 20th  | +6                | Extra Attack (3)                                  |
 |       |                   |                                                   |
@@ -97,9 +97,9 @@ Starting at 2nd level, you can push yourself beyond your normal limits for a mom
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 
-### Martial Archetype
+### Improved Critical
 
-At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
+At 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
 
 ### Ability Score Improvement
 
@@ -111,38 +111,26 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
+### Remarkable Athlete
+
+Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
+
+In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
+
 ### Indomitable
 
 Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 
-## Martial Archetypes
-
-Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.
-
-### Champion
-
-The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
-
-#### Improved Critical
-
-Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
-
-#### Remarkable Athlete
-
-Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
-
-In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
-
-#### Additional Fighting Style
+### Additional Fighting Style
 
 At 10th level, you can choose a second option from the Fighting Style class feature.
 
-#### Superior Critical
+### Superior Critical
 
 Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.
 
-#### Survivor
+### Survivor
 
 At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
