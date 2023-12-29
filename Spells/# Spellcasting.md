@@ -14,9 +14,9 @@ Uncounted thousands of spells have been created over the course of the multivers
 
 ## Spell Level
 
-Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) *magic missile* at 1st level and the earth-shaking *wish* at 9th. Cantrips-simple but powerful spells that characters can cast almost by rote-are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
+Every spell has a level from 0 to 6. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) *magic missile* at 1st level and the earth-shaking *chain lightning* at 6th. The higher a spell's level, the higher level a spellcaster must be to use that spell.
 
-Spell level and character level don't correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell.
+Spell level and character level don't correspond directly. Typically, a character has to be at least 11th level, not 6th level, to cast a 6th-level spell.
 
 ## Known and Prepared Spells
 
@@ -43,10 +43,6 @@ Some spells, such as *magic missile* and *cure wounds*, have more powerful effec
 > **Casting in Armor**
 >
 >Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
-
-# Cantrips
-
-A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance. Repeated practice has fixed the spell in the caster's mind and infused the caster with the magic needed to produce the effect over and over. A cantrip's spell level is 0.
 
 # Rituals
 
@@ -90,7 +86,7 @@ Most spells require a single action to cast, but some spells require a bonus act
 
 ### Bonus Action
 
-A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven't already taken a bonus action this turn. You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.
+A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven't already taken a bonus action this turn. You can't cast another spell during the same turn.
 
 ### Reactions
 

@@ -34,8 +34,7 @@
 
 ***Spellcasting***. The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
 
-Cantrips (at will): *sacred flame*, *thaumaturgy*
-1st level (4 slots): *command*, *guiding bolt*, *shield of faith*
+1st level (4 slots): *sacred flame*, *thaumaturgy*, *command*, *guiding bolt*, *shield of faith*
 2nd level (3 slots): *hold person*, *silence*, *spiritual weapon*
 3rd level (3 slots): *animate dead*, *dispel magic*
 4th level (3 slots): *divination*, *guardian of faith*

@@ -1,6 +1,6 @@
 ### Chill Touch
 
-*Necromancy cantrip*
+*1st-level necromancy*
 
 **Casting Time:** 1 action
 

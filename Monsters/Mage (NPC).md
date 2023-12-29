@@ -24,8 +24,7 @@
 
 ***Spellcasting***. The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
-Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*
-1st level (4 slots): *detect magic*, *mage armor*, *magic missile*, *shield*
+1st level (4 slots): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *detect magic*, *mage armor*, *magic missile*, *shield*
 2nd level (3 slots): *misty step*, *suggestion*
 3rd level (3 slots): *counterspell*, *fireball*, *fly*
 4th level (3 slots): *greater invisibility*, *ice storm*

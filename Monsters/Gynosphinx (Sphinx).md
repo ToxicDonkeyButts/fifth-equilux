@@ -32,8 +32,7 @@
 
 ***Spellcasting***. The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
 
-Cantrips (at will): *mage hand*, *minor illusion*, *prestidigitation*
-1st level (4 slots): *detect magic*, *identify*, *shield*
+1st level (4 slots): *mage hand*, *minor illusion*, *prestidigitation*, *detect magic*, *identify*, *shield*
 2nd level (3 slots): *darkness*, *locate object*, *suggestion*
 3rd level (3 slots): *dispel magic*, *remove curse*, *tongues*
 4th level (3 slots): *banishment*, *greater invisibility*

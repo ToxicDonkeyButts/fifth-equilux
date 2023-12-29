@@ -1,6 +1,6 @@
 ### Ray of Frost
 
-*Evocation cantrip*
+*1st-level evocation*
 
 **Casting Time:** 1 action
 

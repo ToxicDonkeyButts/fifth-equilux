@@ -1,6 +1,6 @@
 ### Vicious Mockery
 
-*Enchantment cantrip*
+*1st-level enchantment*
 
 **Casting Time:** 1 action
 

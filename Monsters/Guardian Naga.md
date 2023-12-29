@@ -30,8 +30,7 @@
 
 ***Spellcasting***. The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
 
-Cantrips (at will): *mending*, *sacred flame*, *thaumaturgy*
-1st level (4 slots): *command*, *cure wounds*, *shield of faith*
+1st level (4 slots): *mending*, *sacred flame*, *thaumaturgy*, *command*, *cure wounds*, *shield of faith*
 2nd level (3 slots): *calm emotions*, *hold person*
 3rd level (3 slots): *bestow curse*, *clairvoyance*
 4th level (3 slots): *banishment*, *freedom of movement*

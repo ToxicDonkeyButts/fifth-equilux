@@ -1,6 +1,6 @@
 ### Resistance
 
-*Abjuration cantrip*
+*1st-level abjuration*
 
 **Casting Time:** 1 action
 

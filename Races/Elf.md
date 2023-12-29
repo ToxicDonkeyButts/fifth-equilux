@@ -34,6 +34,6 @@ As a high elf, you have a keen mind and a mastery of at least the basics of magi
 
 ***Elf Weapon Training***. You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
-***Cantrip***. You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+***Spell***. You know one 1st-level spell of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
 
 ***Extra Language***. You can speak, read, and write one extra language of your choice.

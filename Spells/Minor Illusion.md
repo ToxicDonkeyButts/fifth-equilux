@@ -1,6 +1,6 @@
 ### Minor Illusion
 
-*Illusion cantrip*
+*1st-level illusion*
 
 **Casting Time:** 1 action
 

@@ -1,6 +1,6 @@
 ### Prestidigitation
 
-*Transmutation cantrip*
+*1st-level transmutation*
 
 **Casting Time:** 1 action
 

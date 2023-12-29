@@ -12,7 +12,6 @@ The level of the spell on the scroll determines the spell's saving throw DC and 
 
 | Spell Level | Rarity    | Save DC | Attack Bonus |
 |-------------|-----------|---------|--------------|
-| Cantrip     | Common    | 13      | +5           |
 | 1st         | Common    | 13      | +5           |
 | 2nd         | Uncommon  | 13      | +5           |
 | 3rd         | Uncommon  | 15      | +7           |

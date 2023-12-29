@@ -1,6 +1,6 @@
 ### Acid Splash
 
-*Conjuration cantrip*
+*1st-level conjuration*
 
 **Casting Time:** 1 action
 

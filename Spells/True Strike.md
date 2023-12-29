@@ -1,6 +1,6 @@
 ### True Strike
 
-*Divination cantrip*
+*1st-level divination*
 
 **Casting Time:** 1 action
 
