@@ -12,7 +12,7 @@ Your elf character has a variety of natural abilities, the result of thousands o
 
 ***Speed***. Your base walking speed is 30 feet.
 
-***Darkvision***. Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+***Darkvision***. Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness and you can't read because fine details are impossible to make out. Visible light sources (torches, candles, lanterns) prevents darkvision from functioning.
 
 ***Keen Senses***. You have proficiency in the Perception skill.
 

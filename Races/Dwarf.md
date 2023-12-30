@@ -13,7 +13,7 @@ Most dwarves are lawful, believing firmly in the benefits of a well-ordered soci
 
 ***Speed***. Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
 
-***Darkvision***. Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+***Darkvision***. Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness and you can't read because fine details are impossible to make out. Visible light sources (torches, candles, lanterns) prevents darkvision from functioning.
 
 ***Dwarven Resilience***. You have advantage on saving throws against poison, and you have resistance against poison damage.
 
