@@ -30,7 +30,7 @@ Regardless of how many spells a caster knows or prepares, he or she can cast onl
 
 When a character casts a spell, he or she expends a slot of that spell's level or higher, effectively "filling" a slot with the spell. You can think of a spell slot as a groove of a certain size-small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts *magic missile*, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
 
-Finishing a long rest restores any expended spell slots.
+Finishing a rest restores any expended spell slots.
 
 Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
 
@@ -56,7 +56,7 @@ To cast a spell as a ritual, a spellcaster must have a feature that grants the a
 >
 >The schools of magic help describe spells; they have no rules of their own, although some rules refer to the schools.
 >
->**Abjuration** spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.
+>**Abjuration** spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures.
 >
 >**Conjuration** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.
 >
@@ -142,9 +142,9 @@ If a spell must be maintained with concentration, that fact appears in its Durat
 
 Normal activity, such as moving and attacking, doesn't interfere with concentration. The following factors can break concentration:
 
-- **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.
-- **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
-- **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
+- **Casting another spell that requires concentration.** You can concentrate on as many spells as you are capable of casting.
+- **Taking damage.** Whenever you take damage while you are concentrating on one or more spells, you must make a Constitution saving throw to maintain your concentration on all of the spells. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
+- **Being incapacitated or killed.** You lose concentration on all spells if you are incapacitated or if you die.
 
 The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
 

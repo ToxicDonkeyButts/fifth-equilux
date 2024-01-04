@@ -2,9 +2,9 @@
 
 *Ring, legendary (requires attunement)*
 
-This ring is linked to one of the four Elemental Planes. The GM chooses or randomly determines the linked plane.
+This ring is linked to one of the four Elementals. The GM chooses or randomly determines the linked element.
 
-While wearing this ring, you have advantage on attack rolls against elementals from the linked plane, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the linked plane.
+While wearing this ring, you have advantage on attack rolls against elementals from the linked element, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the linked element.
 
 The ring has 5 charges. It regains 1d4+1 expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
 

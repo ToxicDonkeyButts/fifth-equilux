@@ -22,7 +22,7 @@
 
 **Challenge** 7 (2,900 XP)
 
-***Bound***. The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
+***Bound***. The shield guardian is magically bound to an amulet. The amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
 
 ***Regeneration***. The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit point.
 

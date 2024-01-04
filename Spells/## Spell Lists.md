@@ -253,7 +253,7 @@
 - Cloudkill
 - Cone of Cold
 - Conjure Elemental
-- Contact Other Plane
+- Contact Other Entity
 - Creation
 - Dominate Person
 - Dream

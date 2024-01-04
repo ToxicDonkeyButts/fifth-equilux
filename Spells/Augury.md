@@ -19,4 +19,4 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 
 The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
 
-If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The GM makes this roll in secret.
+If you cast the spell two or more times before completing your next rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The GM makes this roll in secret.

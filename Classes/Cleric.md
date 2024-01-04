@@ -33,6 +33,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
 - (*a*) a priest's pack or (*b*) an explorer's pack
 - A shield and a holy symbol
+- 3d4 x 10 gp
 
 **Table- The Cleric**
 
@@ -66,13 +67,13 @@ As a conduit for divine power, you can cast cleric spells.
 
 #### Preparing and Casting Spells
 
-The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a rest.
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
 For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+You can change your list of prepared spells when you finish a rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 #### Spellcasting Ability
 
@@ -94,11 +95,11 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects and Turn Undead.
 
-When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+When you use your Channel Divinity, you choose which effect to create. You must then finish a rest to use your Channel Divinity again.
 
 Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
 
-Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
+Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a rest, you regain your expended uses.
 
 #### Channel Divinity: Turn Undead
 
@@ -143,7 +144,7 @@ Beginning at 10th level, you can call on your deity to intervene on your behalf 
 
 Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The GM chooses the nature of the intervention; the effect of any cleric spell would be appropriate.
 
-If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a rest.
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 

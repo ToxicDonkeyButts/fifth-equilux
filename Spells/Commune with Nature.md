@@ -17,7 +17,6 @@ You instantly gain knowledge of up to three facts of your choice about any of th
 - terrain and bodies of water
 - prevalent plants, minerals, animals, or peoples
 - powerful celestials, fey, fiends, elementals, or undead
-- influence from other planes of existence
 - buildings
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.

@@ -18,5 +18,5 @@ If the sphere comes into contact with a planar portal, such as that created by t
 |-------|------------------------------------------------------------------------------------------------------------------------------------|
 | 01-50 | The sphere is destroyed.                                                                                                           |
 | 51-85 | The sphere moves through the portal or into the extradimensional space.                                                            |
-| 86-00 | A spatial rift sends each creature and object within 180 feet of the sphere, including the sphere, to a random plane of existence. |
+| 86-00 | A spatial rift sends each creature and object within 180 feet of the sphere, including the sphere, to a random location. |
 |       |                                                                                                                                    |

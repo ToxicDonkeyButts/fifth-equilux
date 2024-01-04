@@ -30,7 +30,7 @@ At will: *detect magic*
 
 3/day each: *enlarge/reduce*, *tongues*
 
-1/day each: *conjure elemental* (fire elemental only), *gaseous form*, *invisibility*, *major image*, *plane shift*, *wall of fire*
+1/day each: *conjure elemental* (fire elemental only), *gaseous form*, *invisibility*, *major image*, *misty step*, *wall of fire*
 
 ###### Actions
 

@@ -30,7 +30,7 @@ At will: *detect evil and good*, *detect magic*, *thunderwave*
 
 3/day each: *create food and water* (can create wine instead of water), *tongues*, *wind walk*
 
-1/day each: *conjure elemental* (air elemental only), *creation*, *gaseous form*, *invisibility*, *major image*, *plane shift*
+1/day each: *conjure elemental* (air elemental only), *creation*, *gaseous form*, *invisibility*, *major image*, *misty step*
 
 ###### Actions
 

@@ -22,7 +22,7 @@
 
 **Challenge** 4 (1,100 XP)
 
-***Telepathic Bond***. The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.
+***Telepathic Bond***. The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed.
 
 ***Shapechanger***. The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -36,6 +36,6 @@ The fiend can have only one target charmed at a time. If it charms another, the 
 
 ***Draining Kiss***. The fiend kisses a creature charmed by it or a willing creature. The target must make a DC 15
 
-Constitution saving throw against this magic, taking 32 (5d10+5) psychic damage on a failed save, or half as much damage on a successful one. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+Constitution saving throw against this magic, taking 32 (5d10+5) psychic damage on a failed save, or half as much damage on a successful one. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a rest. The target dies if this effect reduces its hit point maximum to 0.
 
-***Etherealness***. The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
+***Etherealness***. The fiend magically becomes ethereal or solid.

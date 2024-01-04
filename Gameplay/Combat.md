@@ -5,7 +5,7 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 ># Combat Step by Step
 >
 >1. **Determine surprise.** The GM determines whether anyone involved in the combat encounter is surprised.
->2. **Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are̶how far away and in what direction.
+>2. **Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are, how far away and in what direction.
 >3. **Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.
 >4. **Take turns.** Each participant in the battle takes a turn in initiative order.
 >5. **Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
@@ -468,7 +468,7 @@ Healing can't restore temporary hit points, and they can't be added together. If
 
 If you have 0 hit points, receiving temporary hit points doesn't restore you to consciousness or stabilize you. They can still absorb damage directed at you while you're in that state, but only true healing can save you.
 
-Unless a feature that grants you temporary hit points has a duration, they last until they're depleted or you finish a long rest.
+Unless a feature that grants you temporary hit points has a duration, they last until they're depleted or you finish a rest.
 
 # Mounted Combat
 

@@ -24,7 +24,7 @@
 
 **Challenge** 4 (1,100 XP)
 
-***Ethereal Sight***. The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
+***Ethereal Sight***. The ghost can see 60 feet into the ethereal and material.
 
 ***Incorporeal Movement***. The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
@@ -32,7 +32,7 @@
 
 ***Withering Touch***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 17 (4d6+3) necrotic damage.
 
-***Etherealness***. The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
+***Etherealness***. The ghost enters the ethereal or the material. It is visible on the material while it is in the liminial space, yet it can't affect or be affected by anything on the other side.
 
 ***Horrifying Visage***. Each non-undead creature within 60 feet of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this ghost's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a *greater restoration* spell, but only within 24 hours of it occurring.
 

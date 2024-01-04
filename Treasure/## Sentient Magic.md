@@ -47,18 +47,12 @@ A sentient magic item has an alignment. Its creator or nature might suggest an a
 
 **Table- Sentient Magic Items: Alignment**
 
-| d100   | Alignment       |
-|--------|-----------------|
-| 01-15  | Lawful good     |
-| 16-35  | Neutral good    |
-| 36-50  | Chaotic good    |
-| 51-63  | Lawful neutral  |
-| 64-73  | Neutral         |
-| 74-85  | Chaotic neutral |
-| 86-89  | Lawful evil     |
-| 90-96  | Neutral evil    |
-| 97-100 | Chaotic evil    |
-|        |                 |
+| d6  | Alignment |
+|-----|-----------|
+| 1-2 | Lawful    |
+| 3-4 | Neutral   |
+| 5-6 | Chaotic   |
+|     |           |
 
 ### Special Purpose
 

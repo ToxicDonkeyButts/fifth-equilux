@@ -30,17 +30,17 @@ The game includes the following monster types, which have no rules of their own.
 
 **Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
 
-**Celestials** are creatures native to the Upper Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include angels, couatls, and pegasi.
+**Celestials** are the servants of deities, employed as messengers or agents in the mortal realm. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include angels, couatls, and pegasi.
 
-**Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs. Many creatures native to the outer plane of Mechanus, such as modrons, are constructs shaped from the raw material of the plane by the will of more powerful creatures.
+**Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs.
 
 **Dragons** are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate magic. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less magical, such as wyverns and pseudodragons.
 
-**Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers, invisible stalkers, and water weirds.
+**Elementals** differ widely in form and function. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations of the elementals. Other elemental creatures include azers, invisible stalkers, and water weirds.
 
-**Fey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands. Fey include dryads, pixies, and satyrs.
+**Fey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to faerie. Fey include dryads, pixies, and satyrs.
 
-**Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.
+**Fiends** are creatures of wickedness. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.
 
 **Giants** tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.
 
@@ -208,7 +208,7 @@ A monster with tremorsense can detect and pinpoint the origin of vibrations with
 
 ### Truesight
 
-A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
+A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the ethereal within the same range.
 
 ## Languages
 
@@ -326,13 +326,13 @@ If a monster can do something special with its reaction, that information is con
 
 Some special abilities have restrictions on the number of times they can be used.
 
-***X/Day***. The notation "X/Day" means a special ability can be used X number of times and that a monster must finish a long rest to regain expended uses. For example, "1/Day" means a special ability can be used once and that the monster must finish a long rest to use it again.
+***X/Day***. The notation "X/Day" means a special ability can be used X number of times and that a monster must finish a rest to regain expended uses. For example, "1/Day" means a special ability can be used once and that the monster must finish a rest to use it again.
 
-***Recharge X-Y***. The notation "Recharge X-Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a d6. If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest.
+***Recharge X-Y***. The notation "Recharge X-Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a d6. If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a rest.
 
 For example, "Recharge 5-6" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5 or 6 on a d6.
 
-***Recharge after a Short or Long Rest***. This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again.
+***Recharge after a Rest***. This notation means that a monster can use a special ability once and then must finish a rest to use it again.
 
 ## Equipment
 

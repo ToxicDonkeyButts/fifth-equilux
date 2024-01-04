@@ -22,7 +22,7 @@
 
 **Challenge** 0 (10 XP)
 
-***Telepathic Bond***. While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
+***Telepathic Bond***. The homunculus can magically convey what it senses to its master, and the two can communicate telepathically.
 
 ###### Actions
 

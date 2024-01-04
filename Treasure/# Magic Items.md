@@ -8,11 +8,11 @@ Some magic items require a creature to form a bond with them before their magica
 
 Without becoming attuned to an item that requires attunement, a creature gains only its nonmagical benefits, unless its description states otherwise. For example, a magic shield that requires attunement provides the benefits of a normal shield to a creature not attuned to it, but none of its magical properties.
 
-Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it (this can’t be the same short rest used to learn the item’s properties). This focus can take the form of weapon practice (for a weapon), meditation (for a wondrous item), or some other appropriate activity. If the short rest is interrupted, the attunement attempt fails. Otherwise, at the end of the short rest, the creature gains an intuitive understanding of how to activate any magical properties of the item, including any necessary command words.
+Attuning to an item requires a creature to spend an hour focused on only that item while being in physical contact with it (this can’t be the same time used to learn the item’s properties). This focus can take the form of weapon practice (for a weapon), meditation (for a wondrous item), or some other appropriate activity. If the attunement is interrupted, the attunement attempt fails. Otherwise, at the end of the attunement, the creature gains an intuitive understanding of how to activate any magical properties of the item, including any necessary command words.
 
 An item can be attuned to only one creature at a time.
 
-A creature’s attunement to an item ends if the creature no longer satisfies the prerequisites for attunement, if the item has been more than 100 feet away for at least 24 hours, if the creature dies, or if another creature attunes to the item. A creature can also voluntarily end attunement by spending another short rest focused on the item, unless the item is cursed.
+A creature’s attunement to an item ends if the creature no longer satisfies the prerequisites for attunement, if the item has been more than 100 feet away for at least 24 hours, if the creature dies, or if another creature attunes to the item. A creature can also voluntarily end attunement by spending another hour focused on the item, unless the item is cursed.
 
 ## Wearing and Wielding Items
 
