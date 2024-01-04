@@ -1,4 +1,4 @@
-### Androsphinx (Sphinx)
+#### Androsphinx (Sphinx)
 
 *Large monstrosity, lawful neutral*
 

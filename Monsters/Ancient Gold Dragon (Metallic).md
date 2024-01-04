@@ -1,4 +1,4 @@
-# Ancient Gold Dragon (Metallic)
+## Ancient Gold Dragon (Metallic)
 
 *Gargantuan dragon, lawful good*
 

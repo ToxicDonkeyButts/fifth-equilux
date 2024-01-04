@@ -1,4 +1,4 @@
-# Selling Treasure
+## Selling Treasure
 
 Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
 

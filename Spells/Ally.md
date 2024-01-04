@@ -1,4 +1,4 @@
-### Ally
+#### Ally
 
 *6th-level conjuration*
 

@@ -1,4 +1,4 @@
-# Armor
+## Armor
 
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.
 
@@ -14,7 +14,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 ***Shields***. A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
-## Light Armor
+### Light Armor
 
 Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
 
@@ -24,7 +24,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 ***Studded Leather***. Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 
-## Medium Armor
+### Medium Armor
 
 Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
 
@@ -38,7 +38,7 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 
 ***Half Plate***. Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.
 
-## Heavy Armor
+### Heavy Armor
 
 Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.
 
@@ -75,7 +75,7 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 | Shield           | 10 gp    | +2                        | -        | -            | 6 lb.  |
 |                  |          |                           |          |              |        |
 
-## Getting Into and Out of Armor
+### Getting Into and Out of Armor
 
 The time it takes to don or doff armor depends on the armor's category.
 

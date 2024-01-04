@@ -1,4 +1,4 @@
-### Binding
+#### Binding
 
 *5th-level abjuration*
 

@@ -1,4 +1,4 @@
-### Werebear (Lycanthrope)
+#### Werebear (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), neutral good*
 

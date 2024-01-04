@@ -1,4 +1,4 @@
-### Goat
+#### Goat
 
 *Medium beast, unaligned*
 

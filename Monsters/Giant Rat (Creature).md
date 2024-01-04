@@ -1,4 +1,4 @@
-### Giant Rat
+#### Giant Rat
 
 *Small beast, unaligned*
 

@@ -1,4 +1,4 @@
-### Dire Wolf
+#### Dire Wolf
 
 *Large beast, unaligned*
 

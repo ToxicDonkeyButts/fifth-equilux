@@ -1,4 +1,4 @@
-## Gnoll
+### Gnoll
 
 *Medium humanoid (gnoll), chaotic evil*
 

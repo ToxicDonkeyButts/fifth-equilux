@@ -1,4 +1,4 @@
-### Djinni (Genie)
+#### Djinni (Genie)
 
 *Large elemental, chaotic good*
 

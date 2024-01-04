@@ -1,4 +1,4 @@
-### Animated Armor (Animated Object)
+#### Animated Armor (Animated Object)
 
 *Medium construct, unaligned*
 

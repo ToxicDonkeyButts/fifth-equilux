@@ -1,4 +1,4 @@
-## Darkmantle
+### Darkmantle
 
 *Small monstrosity, unaligned*
 

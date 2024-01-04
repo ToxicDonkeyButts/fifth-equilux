@@ -1,4 +1,4 @@
-### Lion
+#### Lion
 
 *Large beast, unaligned*
 

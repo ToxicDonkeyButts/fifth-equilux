@@ -1,4 +1,4 @@
-# Young Copper Dragon (Metallic)
+## Young Copper Dragon (Metallic)
 
 *Large dragon, chaotic good*
 

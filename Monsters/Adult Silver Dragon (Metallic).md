@@ -1,4 +1,4 @@
-# Adult Silver Dragon (Metallic)
+## Adult Silver Dragon (Metallic)
 
 *Huge dragon, lawful good*
 

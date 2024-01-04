@@ -1,4 +1,4 @@
-### Jump
+#### Jump
 
 *1st-level transmutation*
 
@@ -12,4 +12,4 @@
 
 You touch a creature. The creature's jump distance is tripled until the spell ends.
 
-# Spells (K)
+## Spells (K)

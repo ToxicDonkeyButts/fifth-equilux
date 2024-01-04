@@ -1,4 +1,4 @@
-### Skeleton
+#### Skeleton
 
 *Medium undead, lawful evil*
 

@@ -1,4 +1,4 @@
-### Flying Sword (Animated Object)
+#### Flying Sword (Animated Object)
 
 *Small construct, unaligned*
 

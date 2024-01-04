@@ -1,4 +1,4 @@
-### Scout
+#### Scout
 
 *Medium humanoid (any race), any alignment*
 

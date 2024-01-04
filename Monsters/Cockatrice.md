@@ -1,4 +1,4 @@
-## Cockatrice
+### Cockatrice
 
 *Small monstrosity, unaligned*
 

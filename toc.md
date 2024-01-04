@@ -1,4 +1,4 @@
-## Table of Contents
+### Table of Contents
 
 1. Character Creation
   1. Roll Ability Scores

@@ -1,4 +1,4 @@
-### Giant Wasp
+#### Giant Wasp
 
 *Medium beast, unaligned*
 

@@ -1,4 +1,4 @@
-## Wraith
+### Wraith
 
 *Medium undead, neutral evil*
 

@@ -1,4 +1,4 @@
-# Blue Dragon Wyrmling (Chromatic)
+## Blue Dragon Wyrmling (Chromatic)
 
 *Medium dragon, lawful evil*
 

@@ -1,4 +1,4 @@
-### Black Pudding (Ooze)
+#### Black Pudding (Ooze)
 
 *Large ooze, unaligned*
 

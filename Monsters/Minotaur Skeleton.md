@@ -1,4 +1,4 @@
-### Minotaur Skeleton
+#### Minotaur Skeleton
 
 *Large undead, lawful evil*
 

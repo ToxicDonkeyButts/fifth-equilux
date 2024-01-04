@@ -1,4 +1,4 @@
-### Giant Bat
+#### Giant Bat
 
 *Large beast, unaligned*
 

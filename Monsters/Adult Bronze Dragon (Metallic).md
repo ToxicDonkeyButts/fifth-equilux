@@ -1,4 +1,4 @@
-# Adult Bronze Dragon (Metallic)
+## Adult Bronze Dragon (Metallic)
 
 *Huge dragon, lawful good*
 

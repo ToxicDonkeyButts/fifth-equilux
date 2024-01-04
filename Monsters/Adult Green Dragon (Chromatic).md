@@ -1,4 +1,4 @@
-# Adult Green Dragon (Chromatic)
+## Adult Green Dragon (Chromatic)
 
 *Huge dragon, lawful evil*
 

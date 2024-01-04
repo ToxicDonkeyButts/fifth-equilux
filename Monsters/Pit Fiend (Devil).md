@@ -1,4 +1,4 @@
-### Pit Fiend (Devil)
+#### Pit Fiend (Devil)
 
 *Large fiend (devil), lawful evil*
 

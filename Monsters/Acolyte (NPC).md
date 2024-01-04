@@ -1,4 +1,4 @@
-### Acolyte
+#### Acolyte
 
 *Medium humanoid (any race), any alignment*
 

@@ -1,4 +1,4 @@
-### Stone Golem
+#### Stone Golem
 
 *Large construct, unaligned*
 

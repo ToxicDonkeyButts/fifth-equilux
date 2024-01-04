@@ -1,4 +1,4 @@
-### Riding Horse
+#### Riding Horse
 
 *Large beast, unaligned*
 

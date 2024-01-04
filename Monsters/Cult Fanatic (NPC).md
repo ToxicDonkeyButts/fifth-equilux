@@ -1,4 +1,4 @@
-### Cult Fanatic
+#### Cult Fanatic
 
 *Medium humanoid (any race), any non-good alignment*
 

@@ -1,4 +1,4 @@
-### Glabrezu (Demon)
+#### Glabrezu (Demon)
 
 *Large fiend (demon), chaotic evil*
 

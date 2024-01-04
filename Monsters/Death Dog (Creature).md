@@ -1,4 +1,4 @@
-### Death Dog
+#### Death Dog
 
 *Medium monstrosity, neutral evil*
 

@@ -1,4 +1,4 @@
-## Specter
+### Specter
 
 *Medium undead, chaotic evil*
 

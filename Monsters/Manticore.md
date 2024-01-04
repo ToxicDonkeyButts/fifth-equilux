@@ -1,4 +1,4 @@
-## Manticore
+### Manticore
 
 *Large monstrosity, lawful evil*
 

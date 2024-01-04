@@ -1,4 +1,4 @@
-### Tyrannosaurus Rex (Dinosaur)
+#### Tyrannosaurus Rex (Dinosaur)
 
 *Huge beast, unaligned*
 

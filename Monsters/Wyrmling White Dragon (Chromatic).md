@@ -1,4 +1,4 @@
-# White Dragon Wyrmling (Chromatic)
+## White Dragon Wyrmling (Chromatic)
 
 *Medium dragon, chaotic evil*
 

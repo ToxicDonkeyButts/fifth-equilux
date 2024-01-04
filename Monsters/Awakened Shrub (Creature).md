@@ -1,4 +1,4 @@
-### Awakened Shrub
+#### Awakened Shrub
 
 *Small plant, unaligned*
 

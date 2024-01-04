@@ -1,4 +1,4 @@
-### Wererat (Lycanthrope)
+#### Wererat (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), lawful evil*
 

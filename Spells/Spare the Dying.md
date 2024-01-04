@@ -1,4 +1,4 @@
-### Spare the Dying
+#### Spare the Dying
 
 *1st-level necromancy*
 

@@ -1,4 +1,4 @@
-### Stone Giant
+#### Stone Giant
 
 *Huge giant, neutral*
 

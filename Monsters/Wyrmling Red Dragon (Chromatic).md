@@ -1,4 +1,4 @@
-# Red Dragon Wyrmling (Chromatic)
+## Red Dragon Wyrmling (Chromatic)
 
 *Medium dragon, chaotic evil*
 

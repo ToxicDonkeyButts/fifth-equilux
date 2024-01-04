@@ -1,4 +1,4 @@
-### Ochre Jelly (Ooze)
+#### Ochre Jelly (Ooze)
 
 *Large ooze, unaligned*
 

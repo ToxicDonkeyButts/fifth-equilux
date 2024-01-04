@@ -1,4 +1,4 @@
-# Young Blue Dragon (Chromatic)
+## Young Blue Dragon (Chromatic)
 
 *Large dragon, lawful evil*
 

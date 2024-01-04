@@ -1,4 +1,4 @@
-# Young Red Dragon (Chromatic)
+## Young Red Dragon (Chromatic)
 
 Large dragon, chaotic evil
 

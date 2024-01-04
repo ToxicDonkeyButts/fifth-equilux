@@ -1,6 +1,6 @@
-# Character Creation
+## Character Creation
 
-## Roll Ability Scores
+### Roll Ability Scores
 
 Your character first defining feature is their six abilities:
 
@@ -29,7 +29,7 @@ Roll 3d6 x 6. First roll is your characters Strength, second it's Dexterity and 
 | 20-21 | +5       |
 |       |          |
 
-## Pick a Race
+### Pick a Race
 
 Your characters race will provide it with special features and bonuses to your abilities. Pick or roll 1d4:
 
@@ -38,7 +38,7 @@ Your characters race will provide it with special features and bonuses to your a
 1. **Halfling**, nimble, kind and homesick.
 1. **Human**, talented, ambitious and cruel. 
 
-## Pick a Class
+### Pick a Class
 
 Your characters class will determine your rate of leveling, special features and role.
 
@@ -46,7 +46,7 @@ Your characters class will determine your rate of leveling, special features and
 1. **Fighter**, proficent combatant, and knows how and when to strike.
 1. **Wizard**, corrupt with power never intended for mortals. 
 
-## Pick a Background
+### Pick a Background
 
 Pick or roll (d88) what your character did and who they were **before** they becamse an adventurer.
 
@@ -117,7 +117,7 @@ Pick or roll (d88) what your character did and who they were **before** they bec
 
 If a situation arises where your characters previous life might add some kind of benefit, bring it forth and the GM might have you just overcome the situation or grant you advantage. In the same way the GM might apply disadvantage to a situation if the characters background has implications. As a farmer you would know how long it would take for a besiged fort to run out of food and give in. As a noble stripped of title you might find it difficult to blend in with high society and stay unrecognized.
 
-## Choose Languages
+### Choose Languages
 
 Your characters race provides two languages. For demi-humans (Dwarf, Elf and Halfling) it's their native tongue and the Common language. For humans it's Common and one extra language from the language table or additional languages provided by the GM:
 
@@ -133,10 +133,10 @@ Your characters race provides two languages. For demi-humans (Dwarf, Elf and Hal
 | Orc      |
 |          |
 
-## Pick an Alignment
+### Pick an Alignment
 
 Your character can either be **Lawful** or **Neutral**. Lawful being your common man or adventurer and Neutral being your outlaw, thief or others who do not agree that the rules are meant for them. Monsterns and other dungeon denizens who might enjoy the taste of human flesh are considered **Chaotic** alignment. Commit enough atrocities and you might end up having the GM ask you to switch your alignment.
 
-## Choose Equipment
+### Choose Equipment
 
 Your choice of class provides your character with equipment and starting wealth. You can't sell the starting equipment but you are allowed to spend your gold buying additional equipment before play begins.

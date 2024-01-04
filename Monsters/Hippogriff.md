@@ -1,4 +1,4 @@
-## Hippogriff
+### Hippogriff
 
 *Large monstrosity, unaligned*
 

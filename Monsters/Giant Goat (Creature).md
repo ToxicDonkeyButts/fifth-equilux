@@ -1,4 +1,4 @@
-### Giant Goat
+#### Giant Goat
 
 *Large beast, unaligned*
 

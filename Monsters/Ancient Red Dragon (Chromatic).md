@@ -1,4 +1,4 @@
-# Ancient Red Dragon (Chromatic)
+## Ancient Red Dragon (Chromatic)
 
 *Gargantuan dragon, chaotic evil*
 

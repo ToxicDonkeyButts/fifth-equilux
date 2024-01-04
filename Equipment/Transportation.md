@@ -1,4 +1,4 @@
-# Mounts and Vehicles
+## Mounts and Vehicles
 
 A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal's speed and base carrying capacity.
 

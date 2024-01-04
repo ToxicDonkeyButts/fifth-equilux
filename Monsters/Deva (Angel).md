@@ -1,4 +1,4 @@
-### Deva (Angel)
+#### Deva (Angel)
 
 *Medium celestial, lawful good*
 

@@ -1,4 +1,4 @@
-# Ancient Copper Dragon (Metallic)
+## Ancient Copper Dragon (Metallic)
 
 *Gargantuan dragon, chaotic good*
 

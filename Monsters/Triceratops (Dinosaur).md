@@ -1,4 +1,4 @@
-### Triceratops (Dinosaur)
+#### Triceratops (Dinosaur)
 
 *Huge beast, unaligned*
 

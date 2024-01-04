@@ -1,4 +1,4 @@
-### Contact Other Entity
+#### Contact Other Entity
 
 *5th-level divination (ritual)*
 

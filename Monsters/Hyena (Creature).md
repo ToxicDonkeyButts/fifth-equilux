@@ -1,4 +1,4 @@
-### Hyena
+#### Hyena
 
 *Medium beast, unaligned*
 

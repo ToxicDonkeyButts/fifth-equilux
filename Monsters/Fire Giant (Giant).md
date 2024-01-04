@@ -1,4 +1,4 @@
-### Fire Giant
+#### Fire Giant
 
 *Huge giant, lawful evil*
 

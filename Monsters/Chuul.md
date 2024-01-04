@@ -1,4 +1,4 @@
-## Chuul
+### Chuul
 
 *Large aberration, chaotic evil*
 

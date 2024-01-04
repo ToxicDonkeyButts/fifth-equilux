@@ -1,4 +1,4 @@
-### Efreeti (Genie)
+#### Efreeti (Genie)
 
 *Large elemental, lawful evil*
 

@@ -1,4 +1,4 @@
-## Will-o'-Wisp
+### Will-o'-Wisp
 
 *Tiny undead, chaotic evil*
 

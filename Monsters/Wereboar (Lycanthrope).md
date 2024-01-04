@@ -1,4 +1,4 @@
-### Wereboar (Lycanthrope)
+#### Wereboar (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), neutral evil*
 

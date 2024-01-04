@@ -1,4 +1,4 @@
-## Bulette
+### Bulette
 
 *Large monstrosity, unaligned*
 

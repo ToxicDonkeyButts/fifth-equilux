@@ -1,4 +1,4 @@
-### Chain Devil
+#### Chain Devil
 
 *Medium fiend (devil), lawful evil*
 

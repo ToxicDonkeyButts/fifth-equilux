@@ -1,4 +1,4 @@
-### Bandit Captain
+#### Bandit Captain
 
 *Medium humanoid (any race), any non-lawful alignment*
 

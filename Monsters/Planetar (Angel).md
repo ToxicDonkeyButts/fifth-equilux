@@ -1,4 +1,4 @@
-### Planetar (Angel)
+#### Planetar (Angel)
 
 *Large celestial, lawful good*
 

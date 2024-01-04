@@ -1,4 +1,4 @@
-# Bronze Dragon Wyrmling (Metallic)
+## Bronze Dragon Wyrmling (Metallic)
 
 *Medium dragon, lawful good*
 

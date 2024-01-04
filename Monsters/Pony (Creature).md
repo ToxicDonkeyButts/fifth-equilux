@@ -1,4 +1,4 @@
-### Pony
+#### Pony
 
 *Medium beast, unaligned*
 

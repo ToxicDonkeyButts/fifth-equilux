@@ -1,4 +1,4 @@
-# Young Gold Dragon (Metallic)
+## Young Gold Dragon (Metallic)
 
 *Large dragon, lawful good*
 

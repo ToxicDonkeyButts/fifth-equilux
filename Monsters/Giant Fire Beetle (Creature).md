@@ -1,4 +1,4 @@
-### Giant Fire Beetle
+#### Giant Fire Beetle
 
 *Small beast, unaligned*
 

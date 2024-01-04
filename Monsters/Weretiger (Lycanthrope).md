@@ -1,4 +1,4 @@
-### Weretiger (Lycanthrope)
+#### Weretiger (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), neutral*
 

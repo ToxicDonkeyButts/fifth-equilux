@@ -1,4 +1,4 @@
-## Salamander
+### Salamander
 
 *Large elemental, neutral evil*
 

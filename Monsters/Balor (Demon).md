@@ -1,4 +1,4 @@
-### Balor (Demon)
+#### Balor (Demon)
 
 *Huge fiend (demon), chaotic evil*
 

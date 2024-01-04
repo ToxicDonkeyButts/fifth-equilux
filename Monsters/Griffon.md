@@ -1,4 +1,4 @@
-## Griffon
+### Griffon
 
 *Large monstrosity, unaligned*
 

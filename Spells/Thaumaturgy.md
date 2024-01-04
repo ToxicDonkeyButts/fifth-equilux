@@ -1,4 +1,4 @@
-### Thaumaturgy
+#### Thaumaturgy
 
 *1st-level transmutation*
 

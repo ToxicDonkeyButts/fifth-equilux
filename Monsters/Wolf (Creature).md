@@ -1,4 +1,4 @@
-### Wolf
+#### Wolf
 
 *Medium beast, unaligned*
 

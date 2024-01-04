@@ -1,4 +1,4 @@
-### Black Bear
+#### Black Bear
 
 *Medium beast, unaligned*
 

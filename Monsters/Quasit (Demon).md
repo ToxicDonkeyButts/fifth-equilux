@@ -1,4 +1,4 @@
-### Quasit (Demon)
+#### Quasit (Demon)
 
 *Tiny fiend (demon, shapechanger), chaotic evil*
 

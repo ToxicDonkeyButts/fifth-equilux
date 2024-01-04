@@ -1,4 +1,4 @@
-## Stirge
+### Stirge
 
 *Tiny beast, unaligned*
 

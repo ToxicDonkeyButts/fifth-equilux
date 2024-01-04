@@ -1,4 +1,4 @@
-### Hezrou (Demon)
+#### Hezrou (Demon)
 
 *Large fiend (demon), chaotic evil*
 

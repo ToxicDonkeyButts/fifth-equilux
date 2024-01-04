@@ -1,4 +1,4 @@
-### Solar (Angel)
+#### Solar (Angel)
 
 *Large celestial, lawful good*
 

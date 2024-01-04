@@ -1,4 +1,4 @@
-### Resistance
+#### Resistance
 
 *1st-level abjuration*
 

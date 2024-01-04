@@ -1,4 +1,4 @@
-# Gold Dragon Wyrmling (Metallic)
+## Gold Dragon Wyrmling (Metallic)
 
 *Medium dragon, lawful good*
 

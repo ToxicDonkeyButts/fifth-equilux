@@ -1,4 +1,4 @@
-### Guardian Naga
+#### Guardian Naga
 
 *Large monstrosity, lawful good*
 

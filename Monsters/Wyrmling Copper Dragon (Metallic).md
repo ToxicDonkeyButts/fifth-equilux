@@ -1,4 +1,4 @@
-# Copper Dragon Wyrmling (Metallic)
+## Copper Dragon Wyrmling (Metallic)
 
 *Medium dragon, chaotic good*
 

@@ -1,4 +1,4 @@
-# Adult Gold Dragon (Metallic)
+## Adult Gold Dragon (Metallic)
 
 *Huge dragon, lawful good*
 

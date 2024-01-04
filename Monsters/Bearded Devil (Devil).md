@@ -1,4 +1,4 @@
-### Bearded Devil
+#### Bearded Devil
 
 *Medium fiend (devil), lawful evil*
 

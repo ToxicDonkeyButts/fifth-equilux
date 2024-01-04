@@ -1,4 +1,4 @@
-# Alignment
+## Alignment
 
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes.
 

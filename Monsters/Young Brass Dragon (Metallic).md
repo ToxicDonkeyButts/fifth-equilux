@@ -1,4 +1,4 @@
-# Young Brass Dragon (Metallic)
+## Young Brass Dragon (Metallic)
 
 *Large dragon, chaotic good*
 

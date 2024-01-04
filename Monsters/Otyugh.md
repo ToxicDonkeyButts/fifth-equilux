@@ -1,4 +1,4 @@
-## Otyugh
+### Otyugh
 
 *Large aberration, neutral*
 

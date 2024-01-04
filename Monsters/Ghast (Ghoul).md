@@ -1,4 +1,4 @@
-### Ghast (Ghoul)
+#### Ghast (Ghoul)
 
 *Medium undead, chaotic evil*
 

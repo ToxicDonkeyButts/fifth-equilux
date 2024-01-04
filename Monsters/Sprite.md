@@ -1,4 +1,4 @@
-## Sprite
+### Sprite
 
 *Tiny fey, neutral good*
 

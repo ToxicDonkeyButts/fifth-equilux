@@ -1,4 +1,4 @@
-# Adult Brass Dragon (Metallic)
+## Adult Brass Dragon (Metallic)
 
 *Huge dragon, chaotic good*
 

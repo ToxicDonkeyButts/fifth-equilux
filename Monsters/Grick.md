@@ -1,4 +1,4 @@
-## Grick
+### Grick
 
 *Medium monstrosity, neutral*
 

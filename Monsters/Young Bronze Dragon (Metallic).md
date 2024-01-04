@@ -1,4 +1,4 @@
-# Young Bronze Dragon (Metallic)
+## Young Bronze Dragon (Metallic)
 
 *Large dragon, lawful good*
 

@@ -1,4 +1,4 @@
-### Imp (Devil)
+#### Imp (Devil)
 
 *Tiny fiend (devil, shapechanger), lawful evil*
 

@@ -1,4 +1,4 @@
-### Gelatinous Cube (Ooze)
+#### Gelatinous Cube (Ooze)
 
 *Large ooze, unaligned*
 

@@ -1,4 +1,4 @@
-### Storm Giant
+#### Storm Giant
 
 *Huge giant, chaotic good*
 

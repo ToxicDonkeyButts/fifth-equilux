@@ -1,4 +1,4 @@
-# Young White Dragon (Chromatic)
+## Young White Dragon (Chromatic)
 
 *Large dragon, chaotic evil*
 

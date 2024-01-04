@@ -1,4 +1,4 @@
-# Adult Blue Dragon (Chromatic)
+## Adult Blue Dragon (Chromatic)
 
 *Huge dragon, lawful evil*
 

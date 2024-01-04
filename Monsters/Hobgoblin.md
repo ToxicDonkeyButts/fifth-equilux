@@ -1,4 +1,4 @@
-## Hobgoblin
+### Hobgoblin
 
 *Medium humanoid (goblinoid), lawful evil*
 

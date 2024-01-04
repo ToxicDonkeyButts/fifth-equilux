@@ -1,4 +1,4 @@
-### Polar Bear
+#### Polar Bear
 
 *Large beast, unaligned*
 

@@ -1,4 +1,4 @@
-### Rug of Smothering (Animated Object)
+#### Rug of Smothering (Animated Object)
 
 *Large construct, unaligned*
 

@@ -1,4 +1,4 @@
-### Giant Lizard
+#### Giant Lizard
 
 *Large beast, unaligned*
 

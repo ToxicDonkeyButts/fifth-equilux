@@ -1,4 +1,4 @@
-### Gynosphinx (Sphinx)
+#### Gynosphinx (Sphinx)
 
 *Large monstrosity, lawful neutral*
 

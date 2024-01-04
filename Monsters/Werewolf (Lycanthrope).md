@@ -1,4 +1,4 @@
-### Werewolf (Lycanthrope)
+#### Werewolf (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), chaotic evil*
 

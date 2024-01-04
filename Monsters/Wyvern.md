@@ -1,4 +1,4 @@
-## Wyvern
+### Wyvern
 
 *Large dragon, unaligned*
 

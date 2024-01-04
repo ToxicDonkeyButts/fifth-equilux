@@ -1,4 +1,4 @@
-### Giant Elk
+#### Giant Elk
 
 *Huge beast, unaligned*
 

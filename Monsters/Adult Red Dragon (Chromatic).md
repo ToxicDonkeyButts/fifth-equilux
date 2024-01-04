@@ -1,4 +1,4 @@
-# Adult Red Dragon (Chromatic)
+## Adult Red Dragon (Chromatic)
 
 *Huge dragon, chaotic evil*
 

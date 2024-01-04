@@ -1,4 +1,4 @@
-# Ancient Blue Dragon (Chromatic)
+## Ancient Blue Dragon (Chromatic)
 
 *Gargantuan dragon, lawful evil*
 

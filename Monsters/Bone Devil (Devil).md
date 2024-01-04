@@ -1,4 +1,4 @@
-### Bone Devil
+#### Bone Devil
 
 *Large fiend (devil), lawful evil*
 

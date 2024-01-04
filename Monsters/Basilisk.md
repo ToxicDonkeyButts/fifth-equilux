@@ -1,4 +1,4 @@
-## Basilisk
+### Basilisk
 
 *Medium monstrosity, unaligned*
 

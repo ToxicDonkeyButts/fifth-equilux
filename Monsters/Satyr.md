@@ -1,4 +1,4 @@
-## Satyr
+### Satyr
 
 *Medium fey, chaotic neutral*
 

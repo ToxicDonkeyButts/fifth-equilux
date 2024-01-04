@@ -1,4 +1,4 @@
-### Lemure (Devil)
+#### Lemure (Devil)
 
 *Medium fiend (devil), lawful evil*
 

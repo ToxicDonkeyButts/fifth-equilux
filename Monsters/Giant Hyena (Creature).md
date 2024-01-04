@@ -1,4 +1,4 @@
-### Giant Hyena
+#### Giant Hyena
 
 *Large beast, unaligned*
 

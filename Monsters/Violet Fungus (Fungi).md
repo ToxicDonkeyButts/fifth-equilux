@@ -1,4 +1,4 @@
-### Violet Fungus (Fungi)
+#### Violet Fungus (Fungi)
 
 *Medium plant, unaligned*
 

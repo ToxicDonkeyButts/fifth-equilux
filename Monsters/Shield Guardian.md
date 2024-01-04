@@ -1,4 +1,4 @@
-## Shield Guardian
+### Shield Guardian
 
 *Large construct, unaligned*
 

@@ -1,4 +1,4 @@
-### Giant Frog
+#### Giant Frog
 
 *Medium beast, unaligned*
 
