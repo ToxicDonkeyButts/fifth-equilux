@@ -21,6 +21,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 | Comfortable  | 2 gp          |
 | Wealthy      | 4 gp          |
 | Aristocratic | 10 gp minimum |
+| Royal        | 50 gp minimum |
 |              |               |
 
 ***Wretched***. You live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.

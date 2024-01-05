@@ -88,7 +88,7 @@ When a creature you can see attacks a target other than you that is within 5 fee
 
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-#### Second Wind
+### Second Wind
 
 You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a rest before you can use it again.
 

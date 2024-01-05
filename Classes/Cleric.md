@@ -1,10 +1,10 @@
 ## Cleric
 
-#### Class Features
+### Class Features
 
 As a cleric, you gain the following class features.
 
-#####  Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d8 per cleric level
 
@@ -12,7 +12,7 @@ As a cleric, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
-#####  Proficiencies
+#### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
 
@@ -24,7 +24,7 @@ As a cleric, you gain the following class features.
 
 **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
 
-#####  Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -61,11 +61,11 @@ You start with the following equipment, in addition to the equipment granted by 
 | 20th  | +6                | Divine Intervention improvement                                         | 4   | 3   | 3   | 3   | 3   | 2   |
 |       |                   |                                                                         |     |     |     |     |     |     |
 
-#### Spellcasting
+### Spellcasting
 
 As a conduit for divine power, you can cast cleric spells.
 
-#####  Preparing and Casting Spells
+#### Preparing and Casting Spells
 
 The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a rest.
 
@@ -75,7 +75,7 @@ For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-
 
 You can change your list of prepared spells when you finish a rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
-#####  Spellcasting Ability
+#### Spellcasting Ability
 
 Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
@@ -83,15 +83,15 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
-#####  Ritual Casting
+#### Ritual Casting
 
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-#####  Spellcasting Focus
+#### Spellcasting Focus
 
 You can use a holy symbol as a spellcasting focus for your cleric spells.
 
-#### Channel Divinity
+### Channel Divinity
 
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects and Turn Undead.
 
@@ -101,21 +101,21 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 
 Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a rest, you regain your expended uses.
 
-#####  Channel Divinity: Turn Undead
+#### Channel Divinity: Turn Undead
 
 As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
-#####  Channel Divinity: Preserve Life
+#### Channel Divinity: Preserve Life
 
 As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
 
-#### Ability Score Improvement
+### Ability Score Improvement
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-#### Destroy Undead
+### Destroy Undead
 
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
 
@@ -130,15 +130,15 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 | 17th         | 4 or lower                |
 |              |                           |
 
-#### Blessed Healer
+### Blessed Healer
 
 Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
 
-#### Divine Strike
+### Divine Strike
 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-#### Divine Intervention
+### Divine Intervention
 
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
 
@@ -148,6 +148,6 @@ If your deity intervenes, you can't use this feature again for 7 days. Otherwise
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
-#### Supreme Healing
+### Supreme Healing
 
 Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.

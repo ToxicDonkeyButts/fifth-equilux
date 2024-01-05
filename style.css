@@ -190,3 +190,15 @@ ul.task-list li input[type="checkbox"] {
   text-align: center;
   margin: 0.5rem auto;
 }
+
+#TOC {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-left: 1rem;
+    padding-right: 1rem;
+    height: 100vh;
+    overflow-y: scroll;
+    font-family: monospace;
+    font-size: xx-small;
+}
