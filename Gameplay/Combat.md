@@ -164,7 +164,7 @@ A creature's space also reflects the area it needs to fight effectively. For tha
 
 Because larger creatures take up more space, fewer of them can surround a creature. If four Large creatures crowd around a Medium or smaller one, there's little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one.
 
-#####  Squeezing into a Smaller Space
+##### Squeezing into a Smaller Space
 
 A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it's in the smaller space.
 
@@ -296,7 +296,7 @@ Instead of using a weapon to make a melee weapon attack, you can use an **unarme
 >
 >Battle often involves pitting your prowess against that of your foe. Such a challenge is represented by a contest. This section includes the most common contests that require an action in combat: grappling and shoving a creature. The GM can use these contests as models for improvising others.
 
-#####  Opportunity Attacks
+##### Opportunity Attacks
 
 In a fight, everyone is constantly watching for a chance to strike an enemy who is fleeing or passing by. Such a strike is called an opportunity attack.
 
@@ -438,7 +438,7 @@ Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A suc
 
 ***Damage at 0 Hit Points***. If you take any damage while you have 0 hit points, you suffer a death saving throw failure. If the damage is from a critical hit, you suffer two failures instead. If the damage equals or exceeds your hit point maximum, you suffer instant death.
 
-#####  Stabilizing a Creature
+##### Stabilizing a Creature
 
 The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn't killed by a failed death saving throw.
 

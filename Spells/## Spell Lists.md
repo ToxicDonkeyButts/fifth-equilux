@@ -2,7 +2,7 @@
 
 ### Cleric Spells
 
-#####  1st Level
+##### 1st Level
 
 - Bane
 - Bless
@@ -27,7 +27,7 @@
 - Spare the Dying
 - Thaumaturgy
 
-#####  2nd Level
+##### 2nd Level
 
 - Aid
 - Augury
@@ -47,7 +47,7 @@
 - Warding Bond
 - Zone of Truth
 
-#####  3rd Level
+##### 3rd Level
 
 - Animate Dead
 - Beacon of Hope
@@ -69,7 +69,7 @@
 - Tongues
 - Water Walk
 
-#####  4th Level
+##### 4th Level
 
 - Banishment
 - Control Water
@@ -80,7 +80,7 @@
 - Locate Creature
 - Stone Shape
 
-#####  5th Level
+##### 5th Level
 
 - Commune
 - Contagion
@@ -96,7 +96,7 @@
 - Raise Dead
 - Scrying
 
-#####  6th Level
+##### 6th Level
 
 - Blade Barrier
 - Create Undead
@@ -111,7 +111,7 @@
 
 ### Wizard Spells
 
-#####  1st Level
+##### 1st Level
 
 - Acid Splash
 - Alarm
@@ -155,7 +155,7 @@
 - True Strike
 - Unseen Servant
 
-#####  2nd Level
+##### 2nd Level
 
 - Acid Arrow
 - Alter Self
@@ -189,7 +189,7 @@
 - Suggestion
 - Web
 
-#####  3rd Level
+##### 3rd Level
 
 - Animate Dead
 - Bestow Curse
@@ -220,7 +220,7 @@
 - Vampiric Touch
 - Water Breathing
 
-#####  4th Level
+##### 4th Level
 
 - Arcane Eye
 - Banishment
@@ -246,7 +246,7 @@
 - Stoneskin
 - Wall of Fire
 
-#####  5th Level
+##### 5th Level
 
 - Animate Objects
 - Arcane Hand
@@ -272,7 +272,7 @@
 - Wall of Force
 - Wall of Stone
 
-#####  6th Level
+##### 6th Level
 
 - Chain Lightning
 - Circle of Death

@@ -46,11 +46,11 @@ Often, an improvised weapon is similar to an actual weapon and can be treated as
 
 An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
-#####  Silvered Weapons
+##### Silvered Weapons
 
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
 
-#####  Special Weapons
+##### Special Weapons
 
 Weapons with special rules are described here.
 
