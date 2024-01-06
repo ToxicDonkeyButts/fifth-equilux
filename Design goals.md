@@ -20,6 +20,7 @@ The document should end up with less stuff than what we started with.
 - [X] Remove madness.
 - [X] Remove pantheons.
 - [X] Remove spell focus. Material components are always needed if stated.
+- [X] Retain only Easy, Medium and Hard difficulty class.
 
 #### Changes
 

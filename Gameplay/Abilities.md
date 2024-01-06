@@ -157,7 +157,7 @@ Every task that a character or monster might attempt in the game is covered by o
 
 Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.
 
-#####  Strength Checks
+##### Strength Checks
 
 A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks.
 
@@ -176,11 +176,11 @@ A Strength check can model any attempt to lift, push, pull, or break something, 
 - Tip over a statue
 - Keep a boulder from rolling
 
-#####  Attack Rolls and Damage
+##### Attack Rolls and Damage
 
 You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
 
-#####  Lifting and Carrying
+##### Lifting and Carrying
 
 Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
 
@@ -194,7 +194,7 @@ Your Strength score determines the amount of weight you can bear. The following 
 
 Dexterity measures agility, reflexes, and balance.
 
-#####  Dexterity Checks
+##### Dexterity Checks
 
 A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
 
@@ -215,15 +215,15 @@ A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or 
 - Play a stringed instrument
 - Craft a small or detailed object
 
-#####  Attack Rolls and Damage
+##### Attack Rolls and Damage
 
 You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
 
-#####  Armor Class
+##### Armor Class
 
 Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class.
 
-#####  Initiative
+##### Initiative
 
 At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat.
 
@@ -245,7 +245,7 @@ At the beginning of every combat, you roll initiative by making a Dexterity chec
 
 Constitution measures health, stamina, and vital force.
 
-#####  Constitution Checks
+##### Constitution Checks
 
 Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however.
 
@@ -257,7 +257,7 @@ The GM might call for a Constitution check when you try to accomplish tasks like
 - Survive without food or water
 - Quaff an entire stein of ale in one go
 
-#####  Hit Points
+##### Hit Points
 
 Your Constitution modifier contributes to your hit points. Typically, you add your Constitution modifier to each Hit Die you roll for your hit points.
 
@@ -267,7 +267,7 @@ If your Constitution modifier changes, your hit point maximum changes as well, a
 
 Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
 
-#####  Intelligence Checks
+##### Intelligence Checks
 
 An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.
 
@@ -290,7 +290,7 @@ An Intelligence check comes into play when you need to draw on logic, education,
 - Recall lore about a craft or trade
 - Win a game of skill
 
-#####  Spellcasting Ability
+##### Spellcasting Ability
 
 Wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
 
@@ -298,7 +298,7 @@ Wizards use Intelligence as their spellcasting ability, which helps determine th
 
 Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.
 
-#####  Wisdom Checks
+##### Wisdom Checks
 
 A Wisdom check might reflect an effort to read body language, understand someone's feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Wisdom checks.
 
@@ -317,15 +317,15 @@ A Wisdom check might reflect an effort to read body language, understand someone
 - Get a gut feeling about what course of action to follow
 - Discern whether a seemingly dead or living creature is undead
 
-#####  Spellcasting Ability
+##### Spellcasting Ability
 
-Clerics, druids, and rangers use Wisdom as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+Clerics use Wisdom as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
 
 #### Charisma
 
 Charisma measures your ability to interact effectively with others. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality.
 
-#####  Charisma Checks
+##### Charisma Checks
 
 A Charisma check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation. The Deception, Intimidation, Performance, and Persuasion skills reflect aptitude in certain kinds of Charisma checks.
 
@@ -341,10 +341,6 @@ A Charisma check might arise when you try to influence or entertain others, when
 
 - Find the best person to talk to for news, rumors, and gossip
 - Blend into a crowd to get the sense of key topics of conversation
-
-#####  Spellcasting Ability
-
-Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
 
 ## Saving Throws
 
