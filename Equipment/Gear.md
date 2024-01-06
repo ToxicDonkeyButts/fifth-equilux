@@ -8,8 +8,6 @@ This section describes items that have special rules or require further explanat
 
 ***Antitoxin***. A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
 
-***Arcane Focus***. An arcane focus is a special item-an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item- designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
-
 ***Ball Bearings***. As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the save.
 
 ***Block and Tackle***. A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
@@ -32,11 +30,9 @@ This section describes items that have special rules or require further explanat
 
 ***Crowbar***. Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.
 
-***Druidic Focus***. A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus.
-
 ***Fishing Tackle***. This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting. Healer's Kit. This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
 
-***Holy Symbol***. A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix PH-B "Fantasy-Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
+***Holy Symbol***. A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. A cleric or paladin must use a holy symbol to cast their spells. To use the symbol, the caster must hold it in hand, wear it visibly, or bear it on a shield.
 
 ***Holy Water***. As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage. A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
 
@@ -107,12 +103,6 @@ The starting equipment you get from your class includes a collection of useful a
 | ~ Crossbow bolts (20)        | 1 gp     | 1½ lb.       |
 | ~ Sling bullets (20)         | 4 cp     | 1½ lb.       |
 | Antitoxin (vial)             | 50 gp    | -            |
-| *Arcane focus*               |          |              |
-| ~ Crystal                    | 10 gp    | 1 lb.        |
-| ~ Orb                        | 20 gp    | 3 lb.        |
-| ~ Rod                        | 10 gp    | 2 lb.        |
-| ~ Staff                      | 5 gp     | 4 lb.        |
-| ~ Wand                       | 10 gp    | 1 lb.        |
 | Backpack                     | 2 gp     | 5 lb.        |
 | Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
 | Barrel                       | 2 gp     | 70 lb.       |
@@ -138,11 +128,6 @@ The starting equipment you get from your class includes a collection of useful a
 | Clothes, traveler's          | 2 gp     | 4 lb.        |
 | Component pouch              | 25 gp    | 2 lb.        |
 | Crowbar                      | 2 gp     | 5 lb.        |
-| *Druidic focus*              |          |              |
-| ~ Sprig of mistletoe         | 1 gp     | -            |
-| ~ Totem                      | 1 gp     | -            |
-| ~ Wooden staff               | 5 gp     | 4 lb.        |
-| ~ Yew wand                   | 10 gp    | 1 lb.        |
 | Fishing tackle               | 1 gp     | 4 lb.        |
 | Flask or tankard             | 2 cp     | 1 lb.        |
 | Grappling hook               | 2 gp     | 4 lb.        |

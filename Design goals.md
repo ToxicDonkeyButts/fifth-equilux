@@ -19,6 +19,7 @@ The document should end up with less stuff than what we started with.
 - [X] Remove variant encumbrance.
 - [X] Remove madness.
 - [X] Remove pantheons.
+- [] Remove spell focus. Material components are always needed if stated.
 
 #### Changes
 

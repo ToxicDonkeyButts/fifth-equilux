@@ -6,7 +6,7 @@
 
 **Range:** 1 mile
 
-**Components:** V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
+**Components:** V, S, M (a jeweled horn for hearing or a glass eye for seeing, worth at least 100 gp)
 
 **Duration:** Concentration, up to 10 minutes
 

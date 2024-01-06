@@ -1,10 +1,10 @@
-## SPELLCASTING
+## Spellcasting
 
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.
 
 This chapter provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
 
-## What Is a Spell?
+### What Is a Spell?
 
 A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect-in most cases, all in the span of seconds.
 
@@ -12,19 +12,19 @@ Spells can be versatile tools, weapons, or protective wards. They can deal damag
 
 Uncounted thousands of spells have been created over the course of the multiverse's history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so.
 
-### Spell Level
+#### Spell Level
 
 Every spell has a level from 0 to 6. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) *magic missile* at 1st level and the earth-shaking *chain lightning* at 6th. The higher a spell's level, the higher level a spellcaster must be to use that spell.
 
 Spell level and character level don't correspond directly. Typically, a character has to be at least 11th level, not 6th level, to cast a 6th-level spell.
 
-### Known and Prepared Spells
+#### Known and Prepared Spells
 
 Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind, or must have access to the spell in a magic item. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
 
 In every case, the number of spells a caster can have fixed in mind at any given time depends on the character's level.
 
-### Spell Slots
+#### Spell Slots
 
 Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher level spells are even more so. Thus, each spellcasting class's description (except that of the warlock) includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd-level wizard Umara has four 1st-level spell slots and two 2nd-level slots.
 
@@ -120,11 +120,11 @@ Spellcasting gestures might include a forceful gesticulation or an intricate set
 
 #### Material (M)
 
-Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a **component pouch** or a **spellcasting focus** (found in "Equipment") in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
+Casting some spells requires particular objects, specified in parentheses in the component entry.
 
 If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.
 
-A spellcaster must have a hand free to access a spell's material components-or to hold a spellcasting focus-but it can be the same hand that he or she uses to perform somatic components.
+A spellcaster must have a hand free to access a spell's material component but it can be the same hand that they use to perform somatic components.
 
 ### Duration
 
