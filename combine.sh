@@ -28,4 +28,4 @@ files=(
 for file in "${files[@]}"; do
     cat "$file"
     echo
-done > combined.md
+done > fifth-equilux.md
