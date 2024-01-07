@@ -73,7 +73,6 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 |         | Shield           | 10 gp    | +2                        | -        | -            | 6 lb.  |
 |         |                  |          |                           |          |              |        |
 
-
 ### Getting Into and Out of Armor
 
 The time it takes to don or doff armor depends on the armor's category.
