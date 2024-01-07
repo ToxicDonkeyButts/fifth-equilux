@@ -1,6 +1,6 @@
 ## Dwarf
 
-#### Dwarf Traits
+### Dwarf Traits
 
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order. As a dwarf, you have keen senses, deep intuition, and remarkable resilience.

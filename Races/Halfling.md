@@ -1,6 +1,6 @@
 ## Halfling
 
-#### Halfling Traits
+### Halfling Traits
 
 As a rule, haflings are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways. As a halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others.
 

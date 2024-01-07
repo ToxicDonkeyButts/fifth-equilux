@@ -2,10 +2,9 @@
 
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, or background give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
 
-**Table- Tools**
 | d66 | Item                      | Cost  | Weight |
 |-----|---------------------------|-------|--------|
-|     | *Artisan's tools*         |       |        |
+|     | **Artisan's tools**       |       |        |
 | 11  | ~ Alchemist's supplies    | 50 gp | 8 lb.  |
 | 12  | ~ Brewer's supplies       | 20 gp | 9 lb.  |
 | 13  | ~ Calligrapher's supplies | 10 gp | 5 lb.  |
@@ -25,11 +24,11 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 | 27  | ~ Woodcarver's tools      | 1 gp  | 5 lb.  |
 | 28  | Disguise kit              | 25 gp | 3 lb.  |
 | 29  | Forgery kit               | 15 gp | 5 lb.  |
-|     | *Gaming set*              |       |        |
+|     | **Gaming set**            |       |        |
 | 30  | ~ Dice set                | 1 sp  | -      |
 | 31  | ~ Playing card set        | 5 sp  | -      |
 | 32  | Herbalism kit             | 5 gp  | 3 lb.  |
-|     | *Musical instrument*      |       |        |
+|     | **Musical instrument**    |       |        |
 | 33  | ~ Bagpipes                | 30 gp | 6 lb.  |
 | 34  | ~ Drum                    | 6 gp  | 3 lb.  |
 | 35  | ~ Dulcimer                | 25 gp | 10 lb. |

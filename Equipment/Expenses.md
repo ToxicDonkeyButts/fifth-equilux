@@ -45,20 +45,20 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 
 | Item                   | Cost  |
 |------------------------|-------|
-| *Ale*                  |       |
+| **Ale**                |       |
 | ~ Gallon               | 2 sp  |
 | ~ Mug                  | 4 cp  |
 | Banquet (per person)   | 10 gp |
 | Bread, loaf            | 2 cp  |
 | Cheese, hunk           | 1 sp  |
-| *Inn stay (per day)*   |       |
+| **Inn stay (per day)** |       |
 | ~ Squalid              | 7 cp  |
 | ~ Poor                 | 1 sp  |
 | ~ Modest               | 5 sp  |
 | ~ Comfortable          | 8 sp  |
 | ~ Wealthy              | 2 gp  |
 | ~ Aristocratic         | 4 gp  |
-| *Meals (per day)*      |       |
+| **Meals (per day)**    |       |
 | ~ Squalid              | 3 cp  |
 | ~ Poor                 | 6 cp  |
 | ~ Modest               | 3 sp  |
@@ -66,7 +66,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 | ~ Wealthy              | 8 sp  |
 | ~ Aristocratic         | 2 gp  |
 | Meat, chunk            | 3 sp  |
-| *Wine*                 |       |
+| **Wine**               |       |
 | ~ Common (pitcher)     | 2 sp  |
 | ~ Fine (bottle)        | 10 gp |
 |                        |       |

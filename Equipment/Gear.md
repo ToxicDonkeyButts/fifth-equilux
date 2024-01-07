@@ -97,44 +97,44 @@ The starting equipment you get from your class includes a collection of useful a
 | 1     | Abacus                       | 2 gp     | 2 lb.        |
 | 2     | Acid (vial)                  | 25 gp    | 1 lb.        |
 | 3     | Alchemist's fire (flask)     | 50 gp    | 1 lb.        |
-|       | *Ammunition*                 |          |              |
-| 5     | ~ Arrows (20)                | 1 gp     | 1 lb.        |
-| 6     | ~ Blowgun needles (50)       | 1 gp     | 1 lb.        |
-| 7     | ~ Crossbow bolts (20)        | 1 gp     | 1½ lb.       |
-| 8     | ~ Sling bullets (20)         | 4 cp     | 1½ lb.       |
-| 9     | Antitoxin (vial)             | 50 gp    | -            |
-| 10-11 | Backpack                     | 2 gp     | 5 lb.        |
-| 12    | Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
-| 13    | Barrel                       | 2 gp     | 70 lb.       |
-| 14    | Basket                       | 4 sp     | 2 lb.        |
-| 15    | Bedroll                      | 1 gp     | 7 lb.        |
-| 16    | Bell                         | 1 gp     | -            |
-| 17    | Blanket                      | 5 sp     | 3 lb.        |
-| 18    | Block and tackle             | 1 gp     | 5 lb.        |
-| 19    | Book                         | 25 gp    | 5 lb.        |
-| 20    | Bottle, glass                | 2 gp     | 2 lb.        |
-| 21    | Bucket                       | 5 cp     | 2 lb.        |
-| 22    | Caltrops (bag of 20)         | 1 gp     | 2 lb.        |
-| 23    | Candle                       | 1 cp     | -            |
-| 24    | Case, crossbow bolt          | 1 gp     | 1 lb.        |
-| 25    | Case, map or scroll          | 1 gp     | 1 lb.        |
-| 26    | Chain (10 feet)              | 5 gp     | 10 lb.       |
-| 27    | Chalk (1 piece)              | 1 cp     | -            |
-| 28    | Chest                        | 5 gp     | 25 lb.       |
-| 29-30 | Climber's kit                | 25 gp    | 12 lb.       |
-| 31    | Clothes, common              | 5 sp     | 3 lb.        |
-| 32    | Clothes, costume             | 5 gp     | 4 lb.        |
-| 33    | Clothes, fine                | 15 gp    | 6 lb.        |
-| 34    | Clothes, traveler's          | 2 gp     | 4 lb.        |
-| 35    | Component pouch              | 25 gp    | 2 lb.        |
-| 36    | Crowbar                      | 2 gp     | 5 lb.        |
+|       | **Ammunition**               |          |              |
+| 4     | ~ Arrows (20)                | 1 gp     | 1 lb.        |
+| 5     | ~ Blowgun needles (50)       | 1 gp     | 1 lb.        |
+| 6     | ~ Crossbow bolts (20)        | 1 gp     | 1½ lb.       |
+| 7     | ~ Sling bullets (20)         | 4 cp     | 1½ lb.       |
+| 8     | Antitoxin (vial)             | 50 gp    | -            |
+| 9-10  | Backpack                     | 2 gp     | 5 lb.        |
+| 11    | Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
+| 12    | Barrel                       | 2 gp     | 70 lb.       |
+| 13    | Basket                       | 4 sp     | 2 lb.        |
+| 14    | Bedroll                      | 1 gp     | 7 lb.        |
+| 15    | Bell                         | 1 gp     | -            |
+| 16    | Blanket                      | 5 sp     | 3 lb.        |
+| 17    | Block and tackle             | 1 gp     | 5 lb.        |
+| 18    | Book                         | 25 gp    | 5 lb.        |
+| 19    | Bottle, glass                | 2 gp     | 2 lb.        |
+| 20    | Bucket                       | 5 cp     | 2 lb.        |
+| 21    | Caltrops (bag of 20)         | 1 gp     | 2 lb.        |
+| 22    | Candle                       | 1 cp     | -            |
+| 23    | Case, crossbow bolt          | 1 gp     | 1 lb.        |
+| 24    | Case, map or scroll          | 1 gp     | 1 lb.        |
+| 25    | Chain (10 feet)              | 5 gp     | 10 lb.       |
+| 26    | Chalk (1 piece)              | 1 cp     | -            |
+| 27    | Chest                        | 5 gp     | 25 lb.       |
+| 28-29 | Climber's kit                | 25 gp    | 12 lb.       |
+| 30    | Clothes, common              | 5 sp     | 3 lb.        |
+| 31    | Clothes, costume             | 5 gp     | 4 lb.        |
+| 32    | Clothes, fine                | 15 gp    | 6 lb.        |
+| 33    | Clothes, traveler's          | 2 gp     | 4 lb.        |
+| 34    | Component pouch              | 25 gp    | 2 lb.        |
+| 35-36 | Crowbar                      | 2 gp     | 5 lb.        |
 | 37    | Fishing tackle               | 1 gp     | 4 lb.        |
 | 38    | Flask or tankard             | 2 cp     | 1 lb.        |
 | 39    | Grappling hook               | 2 gp     | 4 lb.        |
 | 40    | Hammer                       | 1 gp     | 3 lb.        |
 | 41    | Hammer, sledge               | 2 gp     | 10 lb.       |
 | 42    | Healer's kit                 | 5 gp     | 3 lb.        |
-|       | *Holy symbol*                |          |              |
+|       | **Holy symbol**              |          |              |
 | 43    | ~ Amulet                     | 5 gp     | 1 lb.        |
 | 44    | ~ Emblem                     | 5 gp     | -            |
 | 45    | ~ Reliquary                  | 5 gp     | 2 lb.        |

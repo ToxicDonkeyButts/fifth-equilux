@@ -1,6 +1,6 @@
 ## Elf
 
-#### Elf Traits
+### Elf Traits
 
 Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement. Elves love freedom, variety, and self- expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.
 
