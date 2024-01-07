@@ -1,0 +1,14 @@
+{
+  "name": "fifth-equilux",
+  "version": "0.0.1",
+  "description": "A trimmed down version of the most recently of the worlds most popular drakes and depths game. Trying to make it work for an OSR gaming experience while maintainig familiarity with the majority of the current player base.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lasse Borly",
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "remark": "^15.0.1"
+  }
+}
