@@ -12,17 +12,16 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 **Table- Lifestyle Expenses**
 
-| Lifestyle    | Price/Day     |
-|--------------|---------------|
-| Wretched     | -             |
-| Squalid      | 1 sp          |
-| Poor         | 2 sp          |
-| Modest       | 1 gp          |
-| Comfortable  | 2 gp          |
-| Wealthy      | 4 gp          |
-| Aristocratic | 10 gp minimum |
-| Royal        | 50 gp minimum |
-|              |               |
+| d8  | Lifestyle    | Price/Day     |
+| --  |--------------|---------------|
+| 1   | Wretched     | -             |
+| 2   | Squalid      | 1 sp          |
+| 3-4 | Poor         | 2 sp          |
+| 5   | Modest       | 1 gp          |
+| 6   | Comfortable  | 2 gp          |
+| 7   | Wealthy      | 4 gp          |
+| 8   | Aristocratic | 10 gp minimum |
+|     |              |               |
 
 ***Wretched***. You live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.
 

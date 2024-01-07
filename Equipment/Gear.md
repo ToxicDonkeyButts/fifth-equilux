@@ -92,101 +92,101 @@ The starting equipment you get from your class includes a collection of useful a
 
 **Table- Adventuring Gear**
 
-| Item                         | Cost     | Weight       |
-|------------------------------|----------|--------------|
-| Abacus                       | 2 gp     | 2 lb.        |
-| Acid (vial)                  | 25 gp    | 1 lb.        |
-| Alchemist's fire (flask)     | 50 gp    | 1 lb.        |
-| *Ammunition*                 |          |              |
-| ~ Arrows (20)                | 1 gp     | 1 lb.        |
-| ~ Blowgun needles (50)       | 1 gp     | 1 lb.        |
-| ~ Crossbow bolts (20)        | 1 gp     | 1½ lb.       |
-| ~ Sling bullets (20)         | 4 cp     | 1½ lb.       |
-| Antitoxin (vial)             | 50 gp    | -            |
-| Backpack                     | 2 gp     | 5 lb.        |
-| Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
-| Barrel                       | 2 gp     | 70 lb.       |
-| Basket                       | 4 sp     | 2 lb.        |
-| Bedroll                      | 1 gp     | 7 lb.        |
-| Bell                         | 1 gp     | -            |
-| Blanket                      | 5 sp     | 3 lb.        |
-| Block and tackle             | 1 gp     | 5 lb.        |
-| Book                         | 25 gp    | 5 lb.        |
-| Bottle, glass                | 2 gp     | 2 lb.        |
-| Bucket                       | 5 cp     | 2 lb.        |
-| Caltrops (bag of 20)         | 1 gp     | 2 lb.        |
-| Candle                       | 1 cp     | -            |
-| Case, crossbow bolt          | 1 gp     | 1 lb.        |
-| Case, map or scroll          | 1 gp     | 1 lb.        |
-| Chain (10 feet)              | 5 gp     | 10 lb.       |
-| Chalk (1 piece)              | 1 cp     | -            |
-| Chest                        | 5 gp     | 25 lb.       |
-| Climber's kit                | 25 gp    | 12 lb.       |
-| Clothes, common              | 5 sp     | 3 lb.        |
-| Clothes, costume             | 5 gp     | 4 lb.        |
-| Clothes, fine                | 15 gp    | 6 lb.        |
-| Clothes, traveler's          | 2 gp     | 4 lb.        |
-| Component pouch              | 25 gp    | 2 lb.        |
-| Crowbar                      | 2 gp     | 5 lb.        |
-| Fishing tackle               | 1 gp     | 4 lb.        |
-| Flask or tankard             | 2 cp     | 1 lb.        |
-| Grappling hook               | 2 gp     | 4 lb.        |
-| Hammer                       | 1 gp     | 3 lb.        |
-| Hammer, sledge               | 2 gp     | 10 lb.       |
-| Healer's kit                 | 5 gp     | 3 lb.        |
-| *Holy symbol*                |          |              |
-| ~ Amulet                     | 5 gp     | 1 lb.        |
-| ~ Emblem                     | 5 gp     | -            |
-| ~ Reliquary                  | 5 gp     | 2 lb.        |
-| Holy water (flask)           | 25 gp    | 1 lb.        |
-| Hourglass                    | 25 gp    | 1 lb.        |
-| Hunting trap                 | 5 gp     | 25 lb.       |
-| Ink (1 ounce bottle)         | 10 gp    | -            |
-| Ink pen                      | 2 cp     | -            |
-| Jug or pitcher               | 2 cp     | 4 lb.        |
-| Ladder (10-foot)             | 1 sp     | 25 lb.       |
-| Lamp                         | 5 sp     | 1 lb.        |
-| Lantern, bullseye            | 10 gp    | 2 lb.        |
-| Lantern, hooded              | 5 gp     | 2 lb.        |
-| Lock                         | 10 gp    | 1 lb.        |
-| Magnifying glass             | 100 gp   | -            |
-| Manacles                     | 2 gp     | 6 lb.        |
-| Mess kit                     | 2 sp     | 1 lb.        |
-| Mirror, steel                | 5 gp     | 1/2 lb.      |
-| Oil (flask)                  | 1 sp     | 1 lb.        |
-| Paper (one sheet)            | 2 sp     | -            |
-| Parchment (one sheet)        | 1 sp     | -            |
-| Perfume (vial)               | 5 gp     | -            |
-| Pick, miner's                | 2 gp     | 10 lb.       |
-| Piton                        | 5 cp     | 1/4 lb.      |
-| Poison, basic (vial)         | 100 gp   | -            |
-| Pole (10-foot)               | 5 cp     | 7 lb.        |
-| Pot, iron                    | 2 gp     | 10 lb.       |
-| Potion of healing 5          | 0 gp     | 1/2 lb.      |
-| Pouch                        | 5 sp     | 1 lb.        |
-| Quiver                       | 1 gp     | 1 lb.        |
-| Ram, portable                | 4 gp     | 35 lb.       |
-| Rations (1 day)              | 5 sp     | 2 lb.        |
-| Robes                        | 1 gp     | 4 lb.        |
-| Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
-| Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
-| Sack                         | 1 cp     | 1/2 lb.      |
-| Scale, merchant's            | 5 gp     | 3 lb.        |
-| Sealing wax                  | 5 sp     | -            |
-| Shovel                       | 2 gp     | 5 lb.        |
-| Signal whistle               | 5 cp     | -            |
-| Signet ring                  | 5 gp     | -            |
-| Soap                         | 2 cp     | -            |
-| Spellbook                    | 50 gp    | 3 lb.        |
-| Spikes, iron (10)            | 1 gp     | 5 lb.        |
-| Spyglass                     | 1,000 gp | 1 lb.        |
-| Tent, two-person             | 2 gp     | 20 lb.       |
-| Tinderbox                    | 5 sp     | 1 lb.        |
-| Torch                        | 1 cp     | 1 lb.        |
-| Vial                         | 1 gp     | -            |
-| Waterskin                    | 2 sp     | 5 lb. (full) |
-| Whetstone                    | 1 cp     | 1 lb.        |
-|                              |          |              |
+| d100  | Item                         | Cost     | Weight       |
+|-------|------------------------------|----------|--------------|
+| 1     | Abacus                       | 2 gp     | 2 lb.        |
+| 2     | Acid (vial)                  | 25 gp    | 1 lb.        |
+| 3     | Alchemist's fire (flask)     | 50 gp    | 1 lb.        |
+|       | *Ammunition*                 |          |              |
+| 5     | ~ Arrows (20)                | 1 gp     | 1 lb.        |
+| 6     | ~ Blowgun needles (50)       | 1 gp     | 1 lb.        |
+| 7     | ~ Crossbow bolts (20)        | 1 gp     | 1½ lb.       |
+| 8     | ~ Sling bullets (20)         | 4 cp     | 1½ lb.       |
+| 9     | Antitoxin (vial)             | 50 gp    | -            |
+| 10-11 | Backpack                     | 2 gp     | 5 lb.        |
+| 12    | Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
+| 13    | Barrel                       | 2 gp     | 70 lb.       |
+| 14    | Basket                       | 4 sp     | 2 lb.        |
+| 15    | Bedroll                      | 1 gp     | 7 lb.        |
+| 16    | Bell                         | 1 gp     | -            |
+| 17    | Blanket                      | 5 sp     | 3 lb.        |
+| 18    | Block and tackle             | 1 gp     | 5 lb.        |
+| 19    | Book                         | 25 gp    | 5 lb.        |
+| 20    | Bottle, glass                | 2 gp     | 2 lb.        |
+| 21    | Bucket                       | 5 cp     | 2 lb.        |
+| 22    | Caltrops (bag of 20)         | 1 gp     | 2 lb.        |
+| 23    | Candle                       | 1 cp     | -            |
+| 24    | Case, crossbow bolt          | 1 gp     | 1 lb.        |
+| 25    | Case, map or scroll          | 1 gp     | 1 lb.        |
+| 26    | Chain (10 feet)              | 5 gp     | 10 lb.       |
+| 27    | Chalk (1 piece)              | 1 cp     | -            |
+| 28    | Chest                        | 5 gp     | 25 lb.       |
+| 29-30 | Climber's kit                | 25 gp    | 12 lb.       |
+| 31    | Clothes, common              | 5 sp     | 3 lb.        |
+| 32    | Clothes, costume             | 5 gp     | 4 lb.        |
+| 33    | Clothes, fine                | 15 gp    | 6 lb.        |
+| 34    | Clothes, traveler's          | 2 gp     | 4 lb.        |
+| 35    | Component pouch              | 25 gp    | 2 lb.        |
+| 36    | Crowbar                      | 2 gp     | 5 lb.        |
+| 37    | Fishing tackle               | 1 gp     | 4 lb.        |
+| 38    | Flask or tankard             | 2 cp     | 1 lb.        |
+| 39    | Grappling hook               | 2 gp     | 4 lb.        |
+| 40    | Hammer                       | 1 gp     | 3 lb.        |
+| 41    | Hammer, sledge               | 2 gp     | 10 lb.       |
+| 42    | Healer's kit                 | 5 gp     | 3 lb.        |
+|       | *Holy symbol*                |          |              |
+| 43    | ~ Amulet                     | 5 gp     | 1 lb.        |
+| 44    | ~ Emblem                     | 5 gp     | -            |
+| 45    | ~ Reliquary                  | 5 gp     | 2 lb.        |
+| 46    | Holy water (flask)           | 25 gp    | 1 lb.        |
+| 47    | Hourglass                    | 25 gp    | 1 lb.        |
+| 48    | Hunting trap                 | 5 gp     | 25 lb.       |
+| 49    | Ink (1 ounce bottle)         | 10 gp    | -            |
+| 50    | Ink pen                      | 2 cp     | -            |
+| 51    | Jug or pitcher               | 2 cp     | 4 lb.        |
+| 52    | Ladder (10-foot)             | 1 sp     | 25 lb.       |
+| 53    | Lamp                         | 5 sp     | 1 lb.        |
+| 54    | Lantern, bullseye            | 10 gp    | 2 lb.        |
+| 55-56 | Lantern, hooded              | 5 gp     | 2 lb.        |
+| 57    | Lock                         | 10 gp    | 1 lb.        |
+| 58    | Magnifying glass             | 100 gp   | -            |
+| 59    | Manacles                     | 2 gp     | 6 lb.        |
+| 60    | Mess kit                     | 2 sp     | 1 lb.        |
+| 61    | Mirror, steel                | 5 gp     | 1/2 lb.      |
+| 62-63 | Oil (flask)                  | 1 sp     | 1 lb.        |
+| 64    | Paper (one sheet)            | 2 sp     | -            |
+| 65    | Parchment (one sheet)        | 1 sp     | -            |
+| 66    | Perfume (vial)               | 5 gp     | -            |
+| 67    | Pick, miner's                | 2 gp     | 10 lb.       |
+| 68    | Piton                        | 5 cp     | 1/4 lb.      |
+| 69    | Poison, basic (vial)         | 100 gp   | -            |
+| 70-71 | Pole (10-foot)               | 5 cp     | 7 lb.        |
+| 72    | Pot, iron                    | 2 gp     | 10 lb.       |
+| 73    | Potion of healing            | 50 gp    | 1/2 lb.      |
+| 74    | Pouch                        | 5 sp     | 1 lb.        |
+| 75    | Quiver                       | 1 gp     | 1 lb.        |
+| 76    | Ram, portable                | 4 gp     | 35 lb.       |
+| 77-78 | Rations (1 day)              | 5 sp     | 2 lb.        |
+| 79    | Robes                        | 1 gp     | 4 lb.        |
+| 80-82 | Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
+| 83    | Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
+| 84    | Sack                         | 1 cp     | 1/2 lb.      |
+| 85    | Scale, merchant's            | 5 gp     | 3 lb.        |
+| 86    | Sealing wax                  | 5 sp     | -            |
+| 87    | Shovel                       | 2 gp     | 5 lb.        |
+| 88    | Signal whistle               | 5 cp     | -            |
+| 89    | Signet ring                  | 5 gp     | -            |
+| 90    | Soap                         | 2 cp     | -            |
+| 91    | Spellbook                    | 50 gp    | 3 lb.        |
+| 92    | Spikes, iron (10)            | 1 gp     | 5 lb.        |
+| 93    | Spyglass                     | 1,000 gp | 1 lb.        |
+| 94    | Tent, two-person             | 2 gp     | 20 lb.       |
+| 95    | Tinderbox                    | 5 sp     | 1 lb.        |
+| 96-97 | Torch                        | 1 cp     | 1 lb.        |
+| 98    | Vial                         | 1 gp     | -            |
+| 99    | Waterskin                    | 2 sp     | 5 lb. (full) |
+| 100   | Whetstone                    | 1 cp     | 1 lb.        |
+|       |                              |          |              |
 
 **Table- Container Capacity**
 

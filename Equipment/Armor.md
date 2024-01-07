@@ -52,7 +52,7 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 
 **Table- Armor**
 
-| d12     | Armor            | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight |
+| Dice    | Armor            | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight |
 |---------|------------------|----------|---------------------------|----------|--------------|--------|
 | **d6**  | **Light Armor**  |          |                           |          |              |        |
 | 1-2     | Padded           | 5 gp     | 11 + Dex modifier         | -        | Disadvantage | 8 lb.  |

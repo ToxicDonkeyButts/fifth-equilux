@@ -3,49 +3,48 @@
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, or background give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
 
 **Table- Tools**
-
-| Item                      | Cost  | Weight |
-|---------------------------|-------|--------|
-| *Artisan's tools*         |       |        |
-| ~ Alchemist's supplies    | 50 gp | 8 lb.  |
-| ~ Brewer's supplies       | 20 gp | 9 lb.  |
-| ~ Calligrapher's supplies | 10 gp | 5 lb.  |
-| ~ Carpenter's tools       | 8 gp  | 6 lb.  |
-| ~ Cartographer's tools    | 15 gp | 6 lb.  |
-| ~ Cobbler's tools         | 5 gp  | 5 lb.  |
-| ~ Cook's utensils         | 1 gp  | 8 lb.  |
-| ~ Glassblower's tools     | 30 gp | 5 lb.  |
-| ~ Jeweler's tools         | 25 gp | 2 lb.  |
-| ~ Leatherworker's tools   | 5 gp  | 5 lb.  |
-| ~ Mason's tools           | 10 gp | 8 lb.  |
-| ~ Painter's supplies      | 10 gp | 5 lb.  |
-| ~ Potter's tools          | 10 gp | 3 lb.  |
-| ~ Smith's tools           | 20 gp | 8 lb.  |
-| ~ Tinker's tools          | 50 gp | 10 lb. |
-| ~ Weaver's tools          | 1 gp  | 5 lb.  |
-| ~ Woodcarver's tools      | 1 gp  | 5 lb.  |
-| Disguise kit              | 25 gp | 3 lb.  |
-| Forgery kit               | 15 gp | 5 lb.  |
-| *Gaming set*              |       |        |
-| ~ Dice set                | 1 sp  | -      |
-| ~ Playing card set        | 5 sp  | -      |
-| Herbalism kit             | 5 gp  | 3 lb.  |
-| *Musical instrument*      |       |        |
-| ~ Bagpipes                | 30 gp | 6 lb.  |
-| ~ Drum                    | 6 gp  | 3 lb.  |
-| ~ Dulcimer                | 25 gp | 10 lb. |
-| ~ Flute                   | 2 gp  | 1 lb.  |
-| ~ Lute                    | 35 gp | 2 lb.  |
-| ~ Lyre                    | 30 gp | 2 lb.  |
-| ~ Horn                    | 3 gp  | 2 lb.  |
-| ~ Pan flute               | 12 gp | 2 lb.  |
-| ~ Shawm                   | 2 gp  | 1 lb.  |
-| ~ Viol                    | 30 gp | 1 lb.  |
-| Navigator's tools         | 25 gp | 2 lb.  |
-| Poisoner's kit            | 50 gp | 2 lb.  |
-| Thieves' tools            | 25 gp | 1 lb.  |
-| Vehicles (land or water)  | *     | *      |
-|                           |       |        |
+| d66 | Item                      | Cost  | Weight |
+|-----|---------------------------|-------|--------|
+|     | *Artisan's tools*         |       |        |
+| 11  | ~ Alchemist's supplies    | 50 gp | 8 lb.  |
+| 12  | ~ Brewer's supplies       | 20 gp | 9 lb.  |
+| 13  | ~ Calligrapher's supplies | 10 gp | 5 lb.  |
+| 14  | ~ Carpenter's tools       | 8 gp  | 6 lb.  |
+| 15  | ~ Cartographer's tools    | 15 gp | 6 lb.  |
+| 16  | ~ Cobbler's tools         | 5 gp  | 5 lb.  |
+| 17  | ~ Cook's utensils         | 1 gp  | 8 lb.  |
+| 18  | ~ Glassblower's tools     | 30 gp | 5 lb.  |
+| 19  | ~ Jeweler's tools         | 25 gp | 2 lb.  |
+| 20  | ~ Leatherworker's tools   | 5 gp  | 5 lb.  |
+| 21  | ~ Mason's tools           | 10 gp | 8 lb.  |
+| 22  | ~ Painter's supplies      | 10 gp | 5 lb.  |
+| 23  | ~ Potter's tools          | 10 gp | 3 lb.  |
+| 24  | ~ Smith's tools           | 20 gp | 8 lb.  |
+| 25  | ~ Tinker's tools          | 50 gp | 10 lb. |
+| 26  | ~ Weaver's tools          | 1 gp  | 5 lb.  |
+| 27  | ~ Woodcarver's tools      | 1 gp  | 5 lb.  |
+| 28  | Disguise kit              | 25 gp | 3 lb.  |
+| 29  | Forgery kit               | 15 gp | 5 lb.  |
+|     | *Gaming set*              |       |        |
+| 30  | ~ Dice set                | 1 sp  | -      |
+| 31  | ~ Playing card set        | 5 sp  | -      |
+| 32  | Herbalism kit             | 5 gp  | 3 lb.  |
+|     | *Musical instrument*      |       |        |
+| 33  | ~ Bagpipes                | 30 gp | 6 lb.  |
+| 34  | ~ Drum                    | 6 gp  | 3 lb.  |
+| 35  | ~ Dulcimer                | 25 gp | 10 lb. |
+| 36  | ~ Flute                   | 2 gp  | 1 lb.  |
+| 37  | ~ Lute                    | 35 gp | 2 lb.  |
+| 38  | ~ Lyre                    | 30 gp | 2 lb.  |
+| 39  | ~ Horn                    | 3 gp  | 2 lb.  |
+| 40  | ~ Pan flute               | 12 gp | 2 lb.  |
+| 41  | ~ Shawm                   | 2 gp  | 1 lb.  |
+| 42  | ~ Viol                    | 30 gp | 1 lb.  |
+| 43  | Navigator's tools         | 25 gp | 2 lb.  |
+| 44  | Poisoner's kit            | 50 gp | 2 lb.  |
+| 45  | Thieves' tools            | 25 gp | 1 lb.  |
+| 46  | Vehicles (land or water)  | *     | *      |
+|     |                           |       |        |
 
 \* See the "Mounts and Vehicles" section.
 
